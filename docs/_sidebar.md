@@ -4,6 +4,6 @@
 
 - CSS
   - [布局](layout.md "布局")
-
-- NODE
-  - [服务器部署](serve.md "服务器部署")
+  
+- Node
+  - [服务器](serve.md "服务器")
